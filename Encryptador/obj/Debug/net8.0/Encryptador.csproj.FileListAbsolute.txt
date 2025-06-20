@@ -1,0 +1,14 @@
+C:\Users\Luis Mejia\source\repos\Encryptador\bin\Debug\net8.0\Encryptador.deps.json
+C:\Users\Luis Mejia\source\repos\Encryptador\bin\Debug\net8.0\Encryptador.runtimeconfig.json
+C:\Users\Luis Mejia\source\repos\Encryptador\bin\Debug\net8.0\Encryptador.dll
+C:\Users\Luis Mejia\source\repos\Encryptador\bin\Debug\net8.0\Encryptador.pdb
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.csproj.AssemblyReference.cache
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.AssemblyInfoInputs.cache
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.AssemblyInfo.cs
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.dll
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\refint\Encryptador.dll
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.pdb
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\Encryptador.genruntimeconfig.cache
+C:\Users\Luis Mejia\source\repos\Encryptador\obj\Debug\net8.0\ref\Encryptador.dll
