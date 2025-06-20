@@ -1,0 +1,14 @@
+C:\Users\Luis Mejia\source\repos\Extensiones\bin\Debug\net8.0\Extensiones.deps.json
+C:\Users\Luis Mejia\source\repos\Extensiones\bin\Debug\net8.0\Extensiones.runtimeconfig.json
+C:\Users\Luis Mejia\source\repos\Extensiones\bin\Debug\net8.0\Extensiones.dll
+C:\Users\Luis Mejia\source\repos\Extensiones\bin\Debug\net8.0\Extensiones.pdb
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.csproj.AssemblyReference.cache
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.AssemblyInfoInputs.cache
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.AssemblyInfo.cs
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.dll
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\refint\Extensiones.dll
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.pdb
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\Extensiones.genruntimeconfig.cache
+C:\Users\Luis Mejia\source\repos\Extensiones\obj\Debug\net8.0\ref\Extensiones.dll
